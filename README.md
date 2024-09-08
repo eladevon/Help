@@ -33,13 +33,3 @@ O **Help** está em constante desenvolvimento, então fique de olho nas novidade
 **Vamos juntos criar um mundo mais informado e conectado!** 
 
 **#help #desenvolvimentoweb #solidariedade**
-
-**Obs:** Para personalizar ainda mais esse README, você pode adicionar imagens, GIFs ou até mesmo um vídeo demonstrando como a aplicação funciona. 
-
-**Que tal criar um banner bem legal com o logo do seu projeto?** 
-
-**Use a criatividade!** 
-
-**Gostou desse README? Precisa de mais alguma coisa? É só falar!** 
-
----

@@ -1,8 +1,8 @@
 ## **Help**
 
-### **Como já dizia os Beatles. Mas quem nunca...!**
+### **Como já diziam os Beatles: Help!**
 
-Imagina um mundo onde você pode encontrar ajuda para qualquer problema, desde uma simples dúvida sobre o clima até algo mais sério como violência. Essa é a ideia por trás do **Help**! 
+ Mas quem nunca precisou daquele help, daquela ajudinha? Imagina um mundo onde você pode encontrar ajuda para qualquer problema, desde uma simples dúvida sobre o clima até algo mais sério como violência. Essa é a ideia por trás do **Help**! 
 
 Essa aplicação te ajuda a encontrar informações relevantes sobre diversos temas, de forma rápida e fácil. É só digitar uma palavra-chave e pronto! Você terá acesso a uma lista de resultados personalizados para te auxiliar.
 

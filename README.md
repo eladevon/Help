@@ -1,4 +1,4 @@
-## **Help**
+## **Help - para qualquer situação - Imersão Dev com Gemini**
 
 ### **Como já diziam os Beatles: Help!**
 

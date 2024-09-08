@@ -1,4 +1,4 @@
-## **Help - para qualquer situação - Imersão Dev com Gemini**
+## **Help - para qualquer situação - Imersão Dev com Google Gemini e Alura**
 
 ### **Como já diziam os Beatles: Help!**
 

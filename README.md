@@ -1,4 +1,4 @@
-## **Help - para qualquer situação - Imersão Dev com Google Gemini e Alura**
+## **Help - para qualquer situação**
 
 ### **Como já diziam os Beatles: Help!**
 
@@ -33,3 +33,5 @@ O **Help** está em constante desenvolvimento, então fique de olho nas novidade
 **Vamos juntos criar um mundo mais informado e conectado!** 
 
 **#help #desenvolvimentoweb #solidariedade**
+
+ Imersão Dev com Google Gemini e Alura

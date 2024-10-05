@@ -1,5 +1,5 @@
 ## **Help - para qualquer situação**
-
+https://help-ten-eta.vercel.app/
 ### **Como já diziam os Beatles: Help!**
 
  Mas quem nunca precisou daquele help, daquela ajudinha? Imagina um mundo onde você pode encontrar ajuda para qualquer problema, desde uma simples dúvida sobre o clima até algo mais sério como violência. Essa é a ideia por trás do **Help**! 

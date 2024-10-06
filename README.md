@@ -14,9 +14,10 @@ Essa aplicação te ajuda a encontrar informações relevantes sobre diversos te
 
 **3. Tecnologias utilizadas:**
 
-* **HTML:** A estrutura básica da página, como se fosse a ossatura de uma casa.
+* **HTML:** A estrutura básica da página, como se fosse a estrutura de uma casa.
 * **CSS:** O estilo da página, deixando tudo bonitinho e organizado.
 * **JavaScript:** A parte mais inteligente, que faz a pesquisa e mostra os resultados.
+* **Gemini Ai:** Ajudou a comprar tempo, por automatizar códigos repetitivos.
 
 ### **Quer contribuir?**
 
